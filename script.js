@@ -51,7 +51,6 @@ const students = [
     {"rollNumber": "49", "batch": "D3-49", "name": "Himanshu Dinesh Joshi", "email": "joshihd@rknec.edu", "gender": "Male", "phoneNumber": "9370853626"},
     {"rollNumber": "50", "batch": "D3-50", "name": "Himanshu Rajesh Kanjwani", "email": "kanjwanihr@rknec.edu", "gender": "Male", "phoneNumber": "9579964085"},
     {"rollNumber": "51", "batch": "D3-51", "name": "Ishita Rajesh Shegaonkar", "email": "shegaonkarir@rknec.edu", "Female": "Female", "phoneNumber": "9922143869"},
-    {"rollNumber": "52", "batch": "D3-52", "name": "Janhavi Rajesh Naidu", "email": "naidujr@rknec.edu", "Female": "Female", "phoneNumber": "7887460070"},
     
         {"rollNumber": "52", "batch": "D3-52", "name": "Janhavi Rajesh Naidu", "email": "naidujr@rknec.edu", "gender": "Female", "phoneNumber": "7887460070"},
         {"rollNumber": "53", "batch": "D3-53", "name": "Janhvi Ravikant Thakare", "email": "thakarejr@rknec.edu", "gender": "Female", "phoneNumber": "9356862878"},
